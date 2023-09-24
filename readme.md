@@ -1,6 +1,6 @@
 # Belly Button Challenge Dashboard
 
-![Dashboard Screenshot](static/screenshots/image1.png)
+<img width="948" alt="image1" src="https://github.com/RahiemBrooks/JSON_Belly_Button_Challenge/assets/135518113/d7a21e8c-597f-4d5f-bcb4-81c20db32f10">
 
 
 ## Background
@@ -17,8 +17,8 @@ To complete this assignment, follow these steps:
     - Utilize `sample_values` as the values for the bar chart.
     - Utilize `otu_ids` as the labels for the bar chart.
     - Utilize `otu_labels` as hover text for the chart.
-
-   ![Bar Chart](static/screenshots/image2.png)
+      
+<img width="383" alt="image2" src="https://github.com/RahiemBrooks/JSON_Belly_Button_Challenge/assets/135518113/f0627af2-f639-455f-a081-6e04dbf71b74">
 
 3. Build a bubble chart that visualizes each sample.
     - Utilize `otu_ids` for the x-axis.
@@ -26,23 +26,24 @@ To complete this assignment, follow these steps:
     - Use `sample_values` to determine the marker size.
     - Apply `otu_ids` for the marker colors.
     - Include `otu_labels` as text values for the markers.
-
-   ![Bubble Chart](static/screenshots/image3.png)
+  
+<img width="891" alt="image3" src="https://github.com/RahiemBrooks/JSON_Belly_Button_Challenge/assets/135518113/7b170da1-9161-4e45-998a-230b4f8d7ca8">
 
 4. Display the sample metadata, which includes an individual's demographic information.
 
 5. Present each key-value pair from the metadata JSON object somewhere on the page.
+   
+<img width="139" alt="image4" src="https://github.com/RahiemBrooks/JSON_Belly_Button_Challenge/assets/135518113/fbe6e9f6-11d6-4c1a-80b9-f05c92fd622f">
 
-   ![Metadata](static/screenshots/image4.png)
+7. Ensure that all the plots update when a new sample is selected. You have the creative freedom to design the dashboard's layout.
 
-6. Ensure that all the plots update when a new sample is selected. You have the creative freedom to design the dashboard's layout.
-
-7. Deploy your application to a free static page hosting service, such as GitHub Pages.
+8. Deploy your application to a free static page hosting service, such as GitHub Pages.
 
 ## Advanced Challenge Assignment
 As an advanced challenge, adapt the Gauge Chart from [Plotly's Gauge Charts](https://plotly.com/javascript/gauge-charts/) to represent the weekly washing frequency of the individual.
 - You will need to modify the example gauge code to accommodate values ranging from 0 through 9.
 - Update the chart whenever a new sample is selected.
 
-   ![Gauge Chart](static/screenshots/image5.png)
+<img width="275" alt="image5" src="https://github.com/RahiemBrooks/JSON_Belly_Button_Challenge/assets/135518113/7a8f5343-93d3-4cbd-862b-2fd693720167">
+
 
